@@ -1,1 +1,55 @@
+# R specific
+*.RData
+*.Rhistory
+.Rproj.user/
+
+# RStudio
 .Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# R environment artifacts
+.Renviron
+.Renviron.lock
+
+# R package files
+*.Rcheck/
+man/
+
+# R Markdown
+*.md
+
+# R Shiny
+*.html
+*.log
+
+# knitr and R markdown default cache directories
+*_cache/
+*_files/
+
+# .sass-cache/
+.SassCache/
+
+# Logs
+logs/
+
+# Temporary files
+*.swp
+*.bak
+*.off
+
+# Sublime Text files
+*.sublime-workspace
+
+# VS Code files
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python virtual environments
+venv/
+env/
+__pycache__/
+*.pyc
