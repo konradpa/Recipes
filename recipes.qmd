@@ -1,8 +1,8 @@
 ---
-title: "recipes"
+title: "Recipes"
 author: "Konrad Pagenstedt"
 format: html
-theme: cosmo
+theme: vapor
 editor: visual
 ---
 
