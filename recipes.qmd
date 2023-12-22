@@ -2,12 +2,11 @@
 title: "Recipes"
 author: "Konrad Pagenstedt"
 format: html
-theme: vapor
+theme: solar
 editor: visual
 ---
 
-##. Alien Sandwich
-### **Ingredients:**
+##. Alien Sandwich \### **Ingredients:**
 
 1.  **Space-aged Brioche Bread:**
 
@@ -70,3 +69,7 @@ editor: visual
     -   Slice the sandwiches diagonally for an extra cosmic touch.
 
     -   Serve with a side of meteorite dusted potato wedges or Saturn ring onion rings.
+
+\
+
+This is a second recipe place placeholder:
